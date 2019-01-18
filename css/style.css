@@ -501,7 +501,7 @@ body {
   border: 7px solid #141414;
 }
 
-footer {
+.footer {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -513,7 +513,7 @@ footer {
   background: #141414;
 }
 
-.copyright {
+.footer-copyright {
   color: #393735;
   font-family: josefin;
   font-size: 1em;
